@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Amarg-Downloader<br>🌱 I’m currently learning front-end frame works like React<br>💬 Ask me about anything from coding to coffee! I’m always up for a chat<br>
+🔭 I’m currently working on Amarg-Downloader<br>🌱 I’m currently learning front-end frameworks like React<br>💬 Ask me about anything from coding to coffee! I’m always up for a chat<br>
 
 
 ## 🌐 Socials:
