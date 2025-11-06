@@ -1,6 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on Amarg-Downloader<br>🌱 I’m currently learning front-end frameworks like React<br>💬 Ask me about anything from coding to coffee! I’m always up for a chat<br>
-
+# ⚡ Quick Intro
+Builder by passion. Currently diving into React and front-end development.  
+My flagship project? **Amarg-Downloader** - because downloading should be simple.
 
 ## 🌐 Socials:
 [![DS](https://skillicons.dev/icons?i=discord)](https://discord.gg/janus_1312)
