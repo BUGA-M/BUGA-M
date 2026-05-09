@@ -16,13 +16,12 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 
 <img src="https://komarev.com/ghpvc/?username=BUGA-M&label=Profile%20Views&color=d79921&style=for-the-badge" />
 
-<br><br>
+<br>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=BUGA-M&theme=gruvbox&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" height="165" />
-
+<!--<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" height="165" />-->
 </div>
 
