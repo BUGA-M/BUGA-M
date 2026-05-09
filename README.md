@@ -4,7 +4,6 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 
 ## 🌐 Socials:
 [![DS](https://skillicons.dev/icons?i=discord)](https://discord.gg/BUGA-M)
-
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ggxini@gmail.com)
 
 # Tech Stack:
