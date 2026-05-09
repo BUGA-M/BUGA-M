@@ -10,14 +10,15 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vite,py,mysql,sqlite,rust,tauri,figma)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-<div align="center">
+## 📊 GitHub Stats
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=BUGA-M&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGA-M&theme=gruvbox&hide_border=true" height="165" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BUGA-M&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&theme=gruvbox&hide_border=true&layout=compact" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
 
