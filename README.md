@@ -17,7 +17,6 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 
 <img src="https://streak-stats.demolab.com?user=BUGA-M&theme=gruvbox&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" height="165" />
-
+<!--<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" height="165" />-->
 </div>
 
