@@ -11,14 +11,13 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vite,py,mysql,sqlite,rust,tauri,figma)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=BUGA-M&theme=gruvbox&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BUGA-M&theme=gruvbox&hide_border=true" height="165" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" height="165" />
 
 </div>
 
