@@ -7,16 +7,16 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 [![IG](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ma4rouane) 
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ggxini@gmail.com)
 
-# 💻 Tech Stack:
+# Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vite,py,mysql,sqlite,rust,tauri,figma)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=BUGA-M&label=Profile%20Views&color=d79921&style=for-the-badge" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
 
