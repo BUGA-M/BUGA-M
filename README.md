@@ -11,7 +11,9 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vite,py,mysql,sqlite,rust,tauri,figma)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=BUGA-M&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=BUGA-M&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=BUGA-M&theme=gruvbox&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=BUGA-M&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&theme=gruvbox&hide_border=true&layout=compact)
 
