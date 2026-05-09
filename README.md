@@ -3,8 +3,8 @@ Builder by passion. Currently diving into React and front-end development.
 My flagship project? **Amarg-Downloader** - because downloading should be simple.
 
 ## 🌐 Socials:
-[![DS](https://skillicons.dev/icons?i=discord)](https://discord.gg/janus_1312)
-[![IG](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ma4rouane) 
+[![DS](https://skillicons.dev/icons?i=discord)](https://discord.gg/BUGA-M)
+
 [![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:ggxini@gmail.com)
 
 # Tech Stack:
