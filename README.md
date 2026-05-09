@@ -12,13 +12,13 @@ My flagship project? **Amarg-Downloader** - because downloading should be simple
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&hide_border=true" height="165" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BUGA-M&theme=gruvbox&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BUGA-M&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=BUGA-M&theme=gruvbox&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGA-M&layout=compact&theme=gruvbox&cache_seconds=1800"/>
+
+</div>
 
